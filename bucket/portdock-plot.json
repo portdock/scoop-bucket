@@ -1,0 +1,39 @@
+{
+    "version": "0.1.0",
+    "description": "PortDock Plot — Live graphs of numbers from serial, TCP and UDP",
+    "homepage": "https://portdock.dev/en/plot/",
+    "license": {
+        "identifier": "GPL-3.0-only",
+        "url": "https://github.com/portdock/PortDock/blob/main/LICENSE"
+    },
+    "notes": [
+        "Settings are kept in the persisted 'portdock-data' folder across updates.",
+        "설정은 업데이트해도 portdock-data 폴더에 남습니다."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-Plot-portable.zip",
+            "hash": "2156af0c60652611a2cca505b5ce1d4b07ed336308577eb18c2393c20165197c"
+        }
+    },
+    "shortcuts": [
+        [
+            "PortDock Plot.exe",
+            "PortDock Plot"
+        ]
+    ],
+    "persist": "portdock-data",
+    "checkver": {
+        "github": "https://github.com/portdock/PortDock"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/portdock/PortDock/releases/download/v$version/PortDock-Plot-portable.zip"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/SHA256SUMS.txt"
+        }
+    }
+}
