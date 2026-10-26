@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "PortDock UDP — UDP sender/receiver with broadcast, multicast and echo",
     "homepage": "https://portdock.dev/en/udp/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-UDP-portable.zip",
-            "hash": "bf5f9dd4f3bb97fe58fdf5099b91e0ce822ba7143844015477a1e4b84e169263"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-UDP-portable.zip",
+            "hash": "3668c5a175b2b82e8196f2a5bb13bcce7d3e4d3473bc4f4a7b2fb612760a2d25"
         }
     },
     "shortcuts": [

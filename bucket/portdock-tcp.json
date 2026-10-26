@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "PortDock TCP — TCP client, server and relay with multiple peers, echo and auto-reconnect",
     "homepage": "https://portdock.dev/en/tcp/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-TCP-portable.zip",
-            "hash": "751f8241bf739e4415937be6fa80c5bf21b3cbb2e29cf14cb401a3c39461f970"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-TCP-portable.zip",
+            "hash": "17e398e0df1416581817715a8f1e0fc8c043e60b8004a3b583007567fcf34d59"
         }
     },
     "shortcuts": [

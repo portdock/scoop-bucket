@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "PortDock Net Scan — Find devices on industrial networks — industrial ports, long-term ping",
     "homepage": "https://portdock.dev/en/netscan/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-Net-Scan-portable.zip",
-            "hash": "8a101411d435fbe83b76da42058542e2fc39462f707d4dfd8022a60208781e7a"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-Net-Scan-portable.zip",
+            "hash": "bcf922ca89f497396b395a7a26512752a6095920934e244c17af38d7fc929f79"
         }
     },
     "shortcuts": [

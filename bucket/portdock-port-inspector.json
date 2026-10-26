@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "PortDock Port Inspector — Read-only COM port inspector with a loopback test",
     "homepage": "https://portdock.dev/en/port-inspector/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-Port-Inspector-portable.zip",
-            "hash": "6c7b456651e9c96f324c28f14202b7a31d3b1d0d5b9db56b9a31cfcc4f309eb2"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-Port-Inspector-portable.zip",
+            "hash": "8455b4ca43703de0864fd89cfa8f1645b920b7356e47dab40166a97bbc83805f"
         }
     },
     "shortcuts": [

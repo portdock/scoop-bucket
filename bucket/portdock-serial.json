@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "PortDock Serial — Serial (COM) terminal with signal lines and auto-reconnect",
     "homepage": "https://portdock.dev/en/serial/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.1.0/PortDock-Serial-portable.zip",
-            "hash": "7c4c542e22333139f9ecf507c88b34583a657368178c55ff930172e393e0386e"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-Serial-portable.zip",
+            "hash": "1bef029a7f6d7fe7ef726699f64edd95ecbac6f37dde93ff4c7eea03cbb9c314"
         }
     },
     "shortcuts": [
