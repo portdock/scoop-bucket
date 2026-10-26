@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "PortDock Modbus Slave — Modbus slave simulator (RTU and TCP) with register tables and fault injection",
     "homepage": "https://portdock.dev/en/modbus-slave/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-Modbus-Slave-portable.zip",
-            "hash": "58f2a7df471d7c03ad910b945188c555202a37c08d5a7d60becc5afb85556b3b"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.3.0/PortDock-Modbus-Slave-portable.zip",
+            "hash": "a804b78fbd5151d23efd8397dcfa6c9108cd0bb7a73760bba4063c56215525ef"
         }
     },
     "shortcuts": [

@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "PortDock SCPI — SCPI instrument terminal — LAN socket and RS-232, no VISA",
     "homepage": "https://portdock.dev/en/scpi/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-SCPI-portable.zip",
-            "hash": "fd720bc162c28da78570985359ca14daca8980835002e8c825dc8e0369cbcf65"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.3.0/PortDock-SCPI-portable.zip",
+            "hash": "921ccfca20f14449f604f84ae5ad8da8cb610091c56658aa16587d7a1827cc02"
         }
     },
     "shortcuts": [

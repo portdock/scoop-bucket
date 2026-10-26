@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "PortDock Simulator — Rule-based fake device over serial, TCP and UDP",
     "homepage": "https://portdock.dev/en/simulator/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.2.0/PortDock-Simulator-portable.zip",
-            "hash": "54912fdf5a14a2a024c7a2121d2de47c680ccea9915a3b0e75baee0605c8e58d"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.3.0/PortDock-Simulator-portable.zip",
+            "hash": "51f32aeb6d6b833cdc73b24cbad10798d269539f05983e92321d853190ae80b7"
         }
     },
     "shortcuts": [
