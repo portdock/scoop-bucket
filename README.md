@@ -23,7 +23,9 @@ Update with `scoop update portdock-serial` (or `scoop update *`). Settings are k
 | PortDock Modbus Master | `portdock/portdock-modbus-master` | Modbus RTU/TCP master (poll tool) — typed values, writes, Slave ID scan |
 | PortDock SCPI | `portdock/portdock-scpi` | SCPI instrument terminal — LAN socket and RS-232, no VISA |
 | PortDock Plot | `portdock/portdock-plot` | Live graphs of numbers from serial, TCP and UDP |
-| PortDock Port Inspector | `portdock/portdock-port-inspector` | Read-only COM port inspector with a loopback test |
+| PortDock Port Inspector | `portdock/portdock-port-inspector` | Read-only COM port, network adapter, USB path, PC settings and wireless checks, with a loopback test |
+| PortDock PLC Simulator | `portdock/portdock-plc-simulator` | MC protocol (SLMP) server simulator for testing HMI software without a PLC |
+| PortDock Hardware Tester | `portdock/portdock-hw-tester` | Logs Wi-Fi/internet drops (gateway vs beyond) and Bluetooth connects/disconnects |
 
 The executables are not code-signed yet, so Windows SmartScreen may warn on first run. See the [code signing policy](https://portdock.dev/en/code-signing/).
 
