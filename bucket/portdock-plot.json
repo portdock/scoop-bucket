@@ -1,5 +1,5 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "PortDock Plot — Live graphs of numbers from serial, TCP and UDP",
     "homepage": "https://portdock.dev/en/plot/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.5.0/PortDock-Plot-portable.zip",
-            "hash": "0c7ca7817edcf083d575ef817c0bf0213151540803642fd0992f7f79569af459"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.6.0/PortDock-Plot-portable.zip",
+            "hash": "c9694d91627e7cf81540956995d34f3aa5dfb3d658198d7330e2819646f5503b"
         }
     },
     "shortcuts": [

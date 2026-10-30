@@ -1,5 +1,5 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "PortDock Modbus Master — Modbus RTU/TCP master (poll tool) — typed values, writes, Slave ID scan",
     "homepage": "https://portdock.dev/en/modbus-master/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.5.0/PortDock-Modbus-Master-portable.zip",
-            "hash": "3c7ac6206ee921eb19ab9fcea025c22789c22ea477ab7c55ff6a77e1c99325cc"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.6.0/PortDock-Modbus-Master-portable.zip",
+            "hash": "e5dcb156c0294faa537f421e1546053d2f1fa56889b7fbe7e457f05be9157c80"
         }
     },
     "shortcuts": [
