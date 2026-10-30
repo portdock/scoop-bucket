@@ -26,6 +26,7 @@ Update with `scoop update portdock-serial` (or `scoop update *`). Settings are k
 | PortDock Port Inspector | `portdock/portdock-port-inspector` | Read-only COM port, network adapter, USB path, PC settings and wireless checks, with a loopback test |
 | PortDock PLC Simulator | `portdock/portdock-plc-simulator` | MC protocol (SLMP) server simulator for testing HMI software without a PLC |
 | PortDock Hardware Tester | `portdock/portdock-hw-tester` | Logs Wi-Fi/internet drops (gateway vs beyond) and Bluetooth connects/disconnects |
+| PortDock MCP | `portdock/portdock-mcp` | Read-only MCP server so AI assistants can read COM ports, Modbus, MC protocol and SCPI devices |
 
 The executables are not code-signed yet, so Windows SmartScreen may warn on first run. See the [code signing policy](https://portdock.dev/en/code-signing/).
 

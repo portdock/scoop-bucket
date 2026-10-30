@@ -1,5 +1,5 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "description": "PortDock Hardware Tester — Wi-Fi and internet drop/latency recorder with a Bluetooth connection log",
     "homepage": "https://portdock.dev/en/hw-tester/",
     "license": {
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portdock/PortDock/releases/download/v0.6.0/PortDock-Hardware-Tester-portable.zip",
-            "hash": "4dbb3b83f66bd9f7deee7c72e3e13c57c43c2acfc60691d62f2b3211832d1644"
+            "url": "https://github.com/portdock/PortDock/releases/download/v0.7.0/PortDock-Hardware-Tester-portable.zip",
+            "hash": "7796d07d6c5958073bc55b9ca9460361eda8e680c5c0ef594e122f28f511325b"
         }
     },
     "shortcuts": [
